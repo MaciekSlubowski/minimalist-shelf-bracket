@@ -62,7 +62,7 @@ Just scroll down to **STEP 4: FINAL 3D MODEL GENERATION** in the OpenSCAD code a
 *   `wall_hole(-85);` ➔ Change the `-85` (Y-axis) to move the hole up or down along the wall arm.
 *   `shelf_hole(170);` ➔ Change the `170` (X-axis) to shift the shelf mounting hole left or right.
 
-*   
+   
 🖨️ Recommended Print Settings
 
 To ensure the bracket can safely support loads (like thick wooden boards and books) without snapping, follow these guidelines
