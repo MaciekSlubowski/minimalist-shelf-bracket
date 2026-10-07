@@ -77,4 +77,4 @@ Hole Horizontal Expansion: In your slicer (e.g., Cura), set this to 0.4 mm. This
 
 Mounting Hardware: For solid walls (like silicate blocks or concrete), use high-quality 8x40 expansion anchors (e.g., Fischer SX Plus) with matching 4-5 mm flat-head screws. Do not overtighten—let the flush countersink distribute the pressure.
 
-This project is open-source and provided strictly for personal, educational, and non-commercial purposes. You are free to explore, modify, and learn from the codebase. If you wish to use this project for commercial purposes, please contact me. 
+This project is open-source and provided strictly for personal, educational, and non-commercial purposes. You are free to explore, modify, and learn from the codebase. If you wish to use this project for commercial purposes, please contact me. Maciej Ślubowski
