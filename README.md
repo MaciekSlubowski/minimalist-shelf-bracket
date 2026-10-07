@@ -54,7 +54,15 @@ The bracket is fully customizable. You can easily adapt the geometry to your spe
 *   **`thickness`** (Default: `20`): The total 3D depth (Z-axis) of the printed bracket.
 *   **`$fn`** (Default: `150`): The resolution parameter. Set high to ensure the geometric curves and countersunk holes render perfectly smooth.
 
+## 🔧 Pro-Tip: Fixing Misaligned Drill Holes
 
+Did your drill bit slip on the masonry, leaving the holes in your wall slightly too high or too low? Don't drill new holes and ruin your wall! You can easily shift the mounting holes directly on the 3D model to perfectly match the mistake on your wall. 
+
+Just scroll down to **STEP 4: FINAL 3D MODEL GENERATION** in the OpenSCAD code and adjust the coordinates passed to the hole functions:
+*   `wall_hole(-85);` ➔ Change the `-85` (Y-axis) to move the hole up or down along the wall arm.
+*   `shelf_hole(170);` ➔ Change the `170` (X-axis) to shift the shelf mounting hole left or right.
+
+*   
 🖨️ Recommended Print Settings
 
 To ensure the bracket can safely support loads (like thick wooden boards and books) without snapping, follow these guidelines
